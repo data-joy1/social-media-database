@@ -13,4 +13,4 @@ This project is a **Social Media Database** built using **MySQL**. It includes u
 1. Install **MySQL** on your system.
 2. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/social-media-database.git
+   git clone https://github.com/data-joy1/social-media-database.git
